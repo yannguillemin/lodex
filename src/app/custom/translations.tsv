@@ -1149,7 +1149,7 @@
 "vega_variable_container"	"Vega-Lite 'width' and 'height' variable to set the size of the graph to the same size as the parent container"	"Variable Vega-Lite pour 'width' et 'height' permettent de fixer la taille du graphique à la même taille que le conteneur parent"
 "theme"	"Application theme"	"Thème de l'application"
 "error_precomputed_data_empty"	"Precomputed data is empty or unfinished. You might want to relaunch the action"	"Les données précalculées sont vides ou non terminées. Vous pouvez relancer l'action"
-"formatClusteredChart"	"Graph - Clustered chart"	"Graphique - Diagramme à barres groupées"
+"formatClusteredChart"	"Graph - Clustered chart"	"Graphique - Groupement de diagramme à barres"
 "formatClusteredChartDescription"	"Displays several bar charts depending on the category of the element and its weight"	"Affiche plusieurs diagrammes à barres en fonction de la catégorie de l'élément et de son poids"
 "format_x_axis_title"	"Title of x axis"	"Titre de l'axe x"
 "format_y_axis_title"	"Title of y axis"	"Titre de l'axe y"
